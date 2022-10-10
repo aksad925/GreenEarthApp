@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "919868459539",
+    "project_id": "greenearthapp-d4160",
+    "storage_bucket": "greenearthapp-d4160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919868459539:android:3610fe73b4e735a3f90de6",
+        "android_client_info": {
+          "package_name": "com.lifegreen.greenearthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919868459539-3j1tpnr2vo5l4qk3p2bj8qoiav9gin86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lifegreen.greenearthapp",
+            "certificate_hash": "b865f49283b61fa0f26097e05fc97e5e1592de7d"
+          }
+        },
+        {
+          "client_id": "919868459539-svh7vlto0mvvi9lb9kee9c2ch161hcce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7vCVX00VBPKAHvuXpkhOOcz528sQb7fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919868459539-svh7vlto0mvvi9lb9kee9c2ch161hcce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
